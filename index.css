@@ -1,0 +1,37 @@
+html.isEmbedded,
+body {
+  height: 100% !important;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#container {
+  height: 100%;
+}
+
+.ant-layout {
+  height: 100%;
+}
+
+.ant-menu-dark .ant-menu-item-divider {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.logo-container {
+  height: 64px;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  height: 32px;
+  width: auto;
+  transition: all 0.3s;
+}

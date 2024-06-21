@@ -1,0 +1,27 @@
+{
+  "token": {
+    "colorPrimary": "#f37022",
+    "colorInfo": "#f37022",
+    "colorSuccess": "#04b54b",
+    "colorError": "#fe6963",
+    "borderRadius": 3,
+    "borderRadiusLG": 3,
+    "borderRadiusSM": 3,
+    "borderRadiusXS": 3,
+    "colorWarning": "#faad14",
+    "colorTextBase": "#000000",
+    "orange.1": "#fff8f0",
+    "orange.2": "#ffe3c7",
+    "orange.3": "#ffcb9e",
+    "orange.4": "#ffb175",
+    "orange.5": "#ff944d",
+    "orange.6": "#f37022",
+    "orange.7": "#cc5012",
+    "orange.8": "#a63607",
+    "orange.9": "#802200",
+    "orange.10": "#591500",
+    "controlOutline": "rgba(243, 112, 34, 0.1)",
+    "fontFamily": "Inter"
+  },
+  "components": {}
+}

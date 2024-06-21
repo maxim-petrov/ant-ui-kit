@@ -1,0 +1,23 @@
+{
+  "name": "jp1rgr--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "5.3.7",
+    "@tabler/icons-react": "^3.6.0",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "antd": "5.18.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
